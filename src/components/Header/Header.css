@@ -1,0 +1,17 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-image: url("https://cdn.wallpapersafari.com/67/76/qtpSIw.jpg");
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.title{
+    color: rgba(255, 255, 255);
+
+}
+
+h1{
+    margin: 0;
+    
+}
